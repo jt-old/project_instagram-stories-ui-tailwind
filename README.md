@@ -5,7 +5,6 @@
 You can find the youtube video [Here](https://youtu.be/v74SZBVMPa0)
 
 Repo only contains the HTMl, CSS, and tailwind.css data from the [Tailwind Playground](https://play.tailwindcss.com/)
+[Here's a Link to my Finished Project in the Playground](https://play.tailwindcss.com/m0vJbNyJyi?size=540x720&file=config)
 
 ![screenshot](project-screenshot.jpg)
-
-[Here's a Link to my Finished Project](https://play.tailwindcss.com/m0vJbNyJyi?size=540x720&file=config)
